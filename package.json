@@ -1,0 +1,14 @@
+{
+  "name": "rpa_js",
+  "version": "1.0.0",
+  "description": "Rpa mercadopublico",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digital jump",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
